@@ -1,0 +1,14 @@
+{
+  "name": "hamidtech",
+  "description": "Personal website of Hamid",
+  "owner": {
+    "username": "eminabad1979-pixel",
+    "email": "hamidmajeed209@gmail.com"
+  },
+  "domain": "hamidtech.is-a.dev",
+  "subdomain": "hamidtech",
+  "record": {
+    "CNAME": "eminabad1979-pixel.github.io"
+  },
+  "proxied": false
+}
